@@ -1,0 +1,14 @@
+GPA Calculator Tutorial
+
+
+Prerequisites:
+Python
+Flask
+
+Run this command to Terminal to install Flask:
+pip install flask
+
+Run the script:
+Save the code to a file,  app_v.py.
+Run in IDLE.
+Open your browser: Enter http://127.0.0.1:5000 in the address bar.
